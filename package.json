@@ -1,0 +1,16 @@
+{
+  "name": "Aula_06-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  },
+  "scripts": {
+    "test": "mocha",
+    "nome": "node index.js -n"
+  },
+  "dependencies": {
+    "commander": "^6.2.1"
+  }
+}
