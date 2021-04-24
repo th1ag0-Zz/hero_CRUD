@@ -7,7 +7,7 @@
     "mocha": "^8.2.1"
   },
   "scripts": {
-    "test": "mocha",
+    "test": "mocha src/",
     "nome": "node index.js -n"
   },
   "dependencies": {
